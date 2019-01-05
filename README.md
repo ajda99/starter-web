@@ -4,7 +4,7 @@ This is a simple website project for showing you how to use Github. Adding anoth
 
 ## Introduction
 
-This is example is to show different parts of the Git Repository and various commands using a web project.
+This is example is to show different parts of the Git Repository and various commands using a web project. Update a line, emegency !
 
 ## Purpose
 
