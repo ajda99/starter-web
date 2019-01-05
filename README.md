@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing you how to use Github. Adding another line for rebasing example.
+This is a simple website project for showing you how to use Github. Adding another line for rebasing example, more changes from myfeature branch
 
 ## Introduction
 
